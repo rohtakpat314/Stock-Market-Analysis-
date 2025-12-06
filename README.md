@@ -41,10 +41,6 @@ The stock data is sourced from Kaggle. The dataset contains full historical data
 
 **Kaggle Link:** [MAANG Stock Prices](https://www.kaggle.com/datasets/nikhil1e9/netflix-stock-price)  
 
-### Description
-
-MAANG stands for Meta, Amazon, Apple, Netflix, and Google. The dataset provides daily, weekly, and monthly stock prices, automatically updated daily using data from Yahoo Finance.
-
 ### Features
 
 - `Date`: Date of the stock price record  
