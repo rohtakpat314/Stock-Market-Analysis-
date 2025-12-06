@@ -9,8 +9,7 @@
  * 
  * @author Rohtak Patwardhan
  * @version Fall 2025
- * @course CS 200
- * @assignment Stock Analysis Tool
+ * @Project Stock Analysis Tool
  * @contact rspatwardha2@wisc.edu
  * @citation AI: helped with code suggestions and Java I/O formatting
  * 
